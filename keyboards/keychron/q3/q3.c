@@ -15,7 +15,10 @@
  */
 
 #include "quantum.h"
+
+#if defined(RGB_MATRIX_ENABLE)
 #include "rgb_matrix.h"
+#endif
 
 #ifdef DIP_SWITCH_ENABLE
 
