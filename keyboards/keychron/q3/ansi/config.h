@@ -27,4 +27,3 @@
 
 #define HOLD_ON_OTHER_KEY_PRESS
 
-#undef RGB_MATRIX_ENABLE
