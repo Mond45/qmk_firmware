@@ -25,6 +25,3 @@
 /* Enable CapsLock LED */
 #define CAPS_LOCK_LED_INDEX 50
 
-#define HOLD_ON_OTHER_KEY_PRESS
-
-#define FORCE_NKRO
